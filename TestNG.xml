@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="enableSuit" thread-count="2" parallel="classes">
+    <test name="Add Items to cart">
+        <parameter name="browser" value="chrome"/>
+        <classes>
+            <class name="checkoutTests.CheckoutTest"/>
+            <class name="checkoutTests.CheckoutTestTwo">
+
+            </class>
+        </classes>
+    </test>
+</suite> <!-- Suite -->

@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b90b85d8-0c3e-467f-905c-292895905695" name="Changes" comment="Delete unneeded files">
+      <change afterPath="$PROJECT_DIR$/TestNG.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/checkoutTests/CheckoutTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/checkoutTests/CheckoutTest2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/baseTest/BaseTests.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="MIXED" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2QEkSypHr8qzxsU4luKsJMXScPg" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "E:/Tasks/Enable's Task",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "reference.projectsettings.compiler.javacompiler"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Tasks\Enable's Task" />
+      <recent name="E:\Tasks\sauceDemo\src\test" />
+      <recent name="E:\Tasks\sauceDemo" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="checkoutTests" />
+      <recent name="pages" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.E:/Tasks/sauceDemo/TestNG.xml">
+    <configuration name="CheckoutTest.testCheckoutForOneItem (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="sauceDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="checkoutTests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="checkoutTests" />
+      <option name="MAIN_CLASS_NAME" value="checkoutTests.CheckoutTest" />
+      <option name="METHOD_NAME" value="testCheckoutForOneItem" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CheckoutTest.testCheckoutForOneItem" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="sauceDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="checkoutTests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="checkoutTests" />
+      <option name="MAIN_CLASS_NAME" value="checkoutTests.CheckoutTest" />
+      <option name="METHOD_NAME" value="testCheckoutForOneItem" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CheckoutTest.testCheckoutForTwoItems (2)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="sauceDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="checkoutTests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="checkoutTests" />
+      <option name="MAIN_CLASS_NAME" value="checkoutTests.CheckoutTest" />
+      <option name="METHOD_NAME" value="testCheckoutForTwoItems" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CheckoutTest.testCheckoutForTwoItems" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="sauceDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="checkoutTests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="checkoutTests" />
+      <option name="MAIN_CLASS_NAME" value="checkoutTests.CheckoutTest" />
+      <option name="METHOD_NAME" value="testCheckoutForTwoItems" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="E:/Tasks/sauceDemo/TestNG.xml" type="TestNG" nameIsGenerated="true">
+      <module name="sauceDemo" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/TestNG.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="&lt;default&gt;" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="sauceDemo" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="PACKAGE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.CheckoutTest.testCheckoutForOneItem" />
+        <item itemvalue="TestNG.CheckoutTest.testCheckoutForTwoItems" />
+        <item itemvalue="TestNG.CheckoutTest.testCheckoutForOneItem (1)" />
+        <item itemvalue="TestNG.&lt;default&gt;" />
+        <item itemvalue="TestNG.CheckoutTest.testCheckoutForTwoItems (2)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b90b85d8-0c3e-467f-905c-292895905695" name="Changes" comment="" />
+      <created>1684926134373</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1684926134373</updated>
+    </task>
+    <task id="LOCAL-00001" summary="update your TCs">
+      <created>1685208679115</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1685208679133</updated>
+    </task>
+    <task id="LOCAL-00002" summary="update your TCs">
+      <created>1685222343574</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1685222343574</updated>
+    </task>
+    <task id="LOCAL-00003" summary="update your TCs">
+      <created>1685222437297</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1685222437297</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Delete unneeded files">
+      <created>1685222883590</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1685222883590</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="update your TCs" />
+    <MESSAGE value="Delete unneeded files" />
+    <option name="LAST_COMMIT_MESSAGE" value="Delete unneeded files" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/pages/CheckOutStepTwoPage.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/pages/CheckOutStepTwoPage.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
